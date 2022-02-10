@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo hello
+echo hello world
 exit 0
