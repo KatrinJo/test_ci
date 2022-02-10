@@ -1,4 +1,5 @@
 #!/bin/sh
 
-echo hello
+echo hello world
+echo noidea
 exit 0
